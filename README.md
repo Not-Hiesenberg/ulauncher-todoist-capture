@@ -1,5 +1,8 @@
 # Thanks
-All of this lovely code is written by  thanks to them for that! I have literally changed one line to set the due date of the tasks to "today"
+All of this lovely code is written by `Pascal Betting`. Thanks to them for that! I have literally changed one line to set the due date of the tasks to "today"
+The original project is located here:
+https://github.com/pascalbe-dev/ulauncher-todoist-capture
+
 # ulauncher-todoist-capture
 
 > [ulauncher](https://ulauncher.io/) Extension to capture an idea in your [Todoist](https://todoist.com/) inbox.
