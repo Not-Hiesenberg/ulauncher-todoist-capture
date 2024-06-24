@@ -1,4 +1,4 @@
-#Thanks
+# Thanks
 All of this lovely code is written by  thanks to them for that! I have literally changed one line to set the due date of the tasks to "today"
 # ulauncher-todoist-capture
 
