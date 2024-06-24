@@ -13,6 +13,7 @@ class TodoistApi:
             self.url,
             json={
                 "content": task,
+                "due_string": "today"
             },
             headers={
                 "Authorization": "Bearer %s" % self.token,
